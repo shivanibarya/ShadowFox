@@ -21,14 +21,14 @@ Key Learning: Basic CRUD operations, user input/output, array or
 ArrayList data structures.
 
 Task Level (Intermediate):
-2)Inventory Management System with Basic GUI:
+1)Inventory Management System with Basic GUI:
 Develop an Inventory Management System with a basic Graphical
 User Interface (GUI) using JavaFX or Swing. Implement
 functionalities like adding, updating, and deleting inventory items.
 Key Learning: GUI design, event handling, basic CRUD operations
 in a graphical environment.
 
-3)Library Management System with Data Persistence (SQLite):
+2)Library Management System with Data Persistence (SQLite):
 Enhance the Library Management System with features like user
 accounts, book recommendations, and integration with an external
 book information API (optional). Use SQLite for data persistence
@@ -37,7 +37,7 @@ Key Learning: Data persistence with SQLite, API integration
 (optional), user management.
 
 Task Level (Advanced):
-2)Real-time Chat Application with Java Socket Programming:
+1)Real-time Chat Application with Java Socket Programming:
 Build a real-time chat application using Java Socket Programming.
 Allow multiple users to join chat rooms, send messages, and receive
 instant updates.
